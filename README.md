@@ -24,10 +24,8 @@ This project demonstrates how to create a simple web application using TypeScrip
 
 The application follows a modern cloud-native architecture with containerization for portability and scalability.
 
-```
-![Container_Test](https://github.com/user-attachments/assets/43207939-c715-472d-b225-7ac8ed583c01)
+![Container_Test](https://github.com/user-attachments/assets/91d37998-d370-4ca9-a7df-8fba79b27015)
 
-```
 
 ### Components:
 
